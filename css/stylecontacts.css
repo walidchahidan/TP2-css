@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+}
+ul li{
+    display:inline;
+    margin: 6px;
+    
+
+}
+#textbox{
+    
+    border-radius: 4px;
+}
+#button{
+    background-color:rgb(71, 64, 64);
+    border-radius: 4px;
+    border-color: #28C4DA;
+    color: #28C4DA;
+}
+ul{
+    display: inline;
+    margin-left: 15px;
+}
+nav{
+    background-color: rgb(71, 64, 64);
+    padding: 9px;
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: #5D6D7E;
+}
+.search{
+    margin-top: -5px;
+    float: right;
+
+}
+strong{
+    margin-left: 1px;
+    color: white;
+}
+.home{
+    color: white;
+}
+.div1{
+    margin: 50px;
+    
+    
+}
+#nom,#prenom,#email,#naiss{
+    width: 300px;
+    height: 35px;
+}
+.cadre{
+    width:fit-content;
+    border: 1px solid black;
+}
+table{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    
+    
+}
+form{
+    display:inline-block;
+    width: 50vw;
+
+}
+aside{
+    display:inline-block;
+    width: 30vw;
+    
+    margin-bottom: 70px;
+}
+#submit{
+    height: 40px;
+    color: white;
+    background-color: rgb(21, 120, 185);
+}
+.form2{
+    margin: 5px 50px;
+}
